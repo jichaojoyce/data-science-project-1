@@ -32,4 +32,4 @@ More detailed discussion can be found in the Jupyter notebook.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Udacity courses for some of code ideas. Feel free to use the code!
+Must give credit to Udacity courses for the code ideas. Feel free to use the code!
