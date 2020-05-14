@@ -15,8 +15,8 @@ This is an Udacity Nanodegree project. I chose 2017 Stack Overflow survey data d
 I myself, as a woman from Asia and plan to start my career in the field of data science. I have several questions in my mind based on the Stack Overflow survey data as follow. 
 
 1. Does woman make less money than man?
-2. Does women satisfy their job as man?
-3. Which contury offer woman high salary?
+2. Does woman satisfy job as man?
+3. Which contury offered woman high salary?
 
 ## File Descriptions <a name="files"></a>
 
